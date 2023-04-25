@@ -1,4 +1,4 @@
-# Stock_Market_Analysis
+# Stock Market Analysis
 VBA scripting to analyze generated stock market data.
 
 ## Background
